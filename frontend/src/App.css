@@ -1,0 +1,30 @@
+body {
+  background: #f4f6f9;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 900px;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+h1 {
+  font-weight: bold;
+  color: #0d6efd;
+}
+
+textarea {
+  resize: none;
+}
+
+.progress {
+  height: 30px;
+}
+
+.progress-bar {
+  font-size: 16px;
+  font-weight: bold;
+}

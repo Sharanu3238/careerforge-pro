@@ -1,0 +1,4 @@
+**pycache**/
+output_resume.pdf
+node_modules/
+.env
